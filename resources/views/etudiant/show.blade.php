@@ -1,5 +1,5 @@
 @extends('layouts.layout')
-@section('title', 'Ajoutre un article')
+@section('title', 'Afficher étudiant')
 @section('content')
 
         <div class="row">
